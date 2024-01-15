@@ -73,7 +73,7 @@
 
 ```bash
 	#Clone this project
-    git clone https://github.com/giovanni0800/java-calculator.git
+    git clone https://github.com/giovanni0800/files-manager.git
 ```
 
 <br />
